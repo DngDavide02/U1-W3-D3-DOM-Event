@@ -1,6 +1,6 @@
 document.getElementById("button").addEventListener("click", function () {
   const input = document.getElementById("inputText");
-  const attivita = input.value.trim(); // Usa .value per ottenere il testo inserito
+  const attivita = input.value.trim();
 
   if (attivita !== "") {
     const lista = document.getElementById("listaAttivita");
