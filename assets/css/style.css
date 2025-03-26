@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+main #inputText {
+  text-align: center;
+}
+
+main #inputText input {
+  width: 300px;
+  text-align: center;
+}
+
+main #button {
+  margin-top: 20px;
+  text-align: center;
+}
